@@ -111,15 +111,7 @@ export default function HomePage() {
               <p className="text-zinc-400 mt-2">© 2025 Todos los derechos reservados</p>
             </div>
             <div className="flex gap-4">
-              <Link href="/contacto" className="text-zinc-400 hover:text-white transition-colors">
-                Contacto
-              </Link>
-              <Link href="/privacidad" className="text-zinc-400 hover:text-white transition-colors">
-                Privacidad
-              </Link>
-              <Link href="/terminos" className="text-zinc-400 hover:text-white transition-colors">
-                Términos
-              </Link>
+              
             </div>
           </div>
         </div>
