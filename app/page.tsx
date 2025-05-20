@@ -8,7 +8,7 @@ export default function HomePage() {
     <div className="flex flex-col min-h-screen">
       <header className="bg-zinc-900 text-white py-4 px-6">
         <div className="container mx-auto flex justify-between items-center">
-          <h1 className="text-2xl font-bold">MusicaInteractiva</h1>
+          <h1 className="text-2xl font-bold">MusicApp</h1>
           <nav className="hidden md:flex gap-6">
             <Link href="/teoria" className="hover:text-zinc-300 transition-colors">
               Teoría Musical
